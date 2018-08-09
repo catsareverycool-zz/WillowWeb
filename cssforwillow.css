@@ -1,6 +1,7 @@
 body {
-  background-image: url(backgroundImage.png);
+  background-image: url(black-linen.png);
   background-color: #006868;
+
 }
 div {
   background-color: rgba(252, 252, 252, 0.5);
@@ -10,6 +11,18 @@ p {
   font-family: Arial, sans-serif;
 }
 
+@font-face {
+  font-family: 'willowtext';
+  src: url('Mathanifo Script_dafont.ttf') format('truetype');
+}
+#logo{
+  font-family: willowtext;
+  font-size: 300%;
+  width: 400px;
+  margin:0 auto;
+  text-align: center;
+  margin-top: -120px;
+}
 /* The side navigation menu */
 .sidenav {
     height: 100%; /* 100% Full-height */
