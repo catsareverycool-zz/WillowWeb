@@ -20,11 +20,15 @@ p {
 #logo{
   font-family: willowtext;
   font-size: 300%;
-  width: 100px;
-  height: auto;
+  width: 400px;
   margin:0 auto;
   text-align: center;
   margin-top: -120px;
+}
+
+.willowlogo{
+  height: 100;
+  width: auto;
 }
 
 .container{
