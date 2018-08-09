@@ -114,6 +114,6 @@ p {
 #foodDiscount b {
   font-size: 150%;
 }
-#foodDiscount h1 {
-
-}
+.mr-3 {
+ width: 40%;
+ hight: 40%
