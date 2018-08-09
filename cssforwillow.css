@@ -107,7 +107,7 @@ p {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
 }
-#menuButton{
+.menuButton{
   font-size: 400%;
   color: white;
 }
@@ -115,5 +115,5 @@ p {
   font-size: 150%;
 }
 .mr-3 {
- width: 5%;
- hight: 5%
+ width: 12%;
+ hight: 12%
