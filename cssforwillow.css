@@ -17,7 +17,7 @@ p {
   font-family: 'willowtext';
   src: url('Mathanifo Script_dafont.ttf') format('truetype');
 }
-#logo{
+.logo{
   font-family: willowtext;
   font-size: 300%;
   width: 400px;
@@ -115,5 +115,5 @@ p {
   font-size: 150%;
 }
 .mr-3 {
- width: 40%;
- hight: 40%
+ width: 5%;
+ hight: 5%
