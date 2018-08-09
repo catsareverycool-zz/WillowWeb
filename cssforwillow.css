@@ -21,6 +21,7 @@ p {
   font-family: willowtext;
   font-size: 300%;
   width: 100px;
+  height: auto;
   margin:0 auto;
   text-align: center;
   margin-top: -120px;
