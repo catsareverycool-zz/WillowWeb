@@ -29,9 +29,9 @@ p {
 .willowlogo{
   margin: auto !important;
   text-align: center !important;
-  margin-top: -120px !important;
   height: 100px !important;
   width: auto !important;
+  float: left;
 }
 
 .container{
