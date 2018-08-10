@@ -18,21 +18,21 @@ p {
   src: url('Mathanifo Script_dafont.ttf') format('truetype');
 }
 .logo{
-  font-family: willowtext;
-  font-size: 300%;
-  width: 400px;
-  margin:0 auto;
-  text-align: center;
-  margin-top: -120px;
-  float: left;
+  font-family: willowtext !important;
+  font-size: 300% !important;
+  width: 400px !important;
+  margin:0 auto !important;
+  text-align: center !important;
+  margin-top: -120px !important;
+  float: right !important;
 }
 
 .willowlogo{
-  margin: auto;
-  text-align: center;
-  margin-top: -120px;
-  height: 100px;
-  width: auto;
+  margin: auto !important;
+  text-align: center !important;
+  margin-top: -120px !important;
+  height: 100px !important;
+  width: auto !important;
 }
 
 .container{
@@ -112,8 +112,8 @@ p {
     .sidenav a {font-size: 18px;}
 }
 .menuButton{
-  font-size: 400%;
-  color: white;
+  font-size: 400% !important;
+  color: white !important;
 }
 #foodDiscount b {
   font-size: 150%;
