@@ -15,7 +15,7 @@ p {
 
 @font-face {
   font-family: 'willowtext';
-  src: url('mathanifo_script.zip') format('truetype');
+  src: url('Mathanifo Script_dafont.ttf') format('truetype');
 }
 .logo{
   font-family: willowtext !important;
