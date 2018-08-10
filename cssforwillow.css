@@ -19,6 +19,7 @@ p {
 }
 .logo{
   font-family: willowtext !important;
+  color: white;
   font-size: 500% !important;
   width: 400px !important;
   margin:0 auto !important;
