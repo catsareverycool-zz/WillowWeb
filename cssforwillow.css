@@ -28,6 +28,9 @@ p {
 }
 
 .willowlogo{
+  margin: auto;
+  text-align: center;
+  margin-top: -120px;
   height: 100px;
   width: auto;
 }
