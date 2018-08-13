@@ -66,6 +66,7 @@ p {
   font-size: 500%;
   font-family: Oswald, sans-serif;
   font-weight: bold;
+  color: rgba(42, 44, 45, 0.9);
 }
 /* The side navigation menu */
 .sidenav {
