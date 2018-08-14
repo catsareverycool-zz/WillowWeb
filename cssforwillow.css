@@ -135,23 +135,23 @@ p {
  hight: 12%
 }
 
-a {
+.logo a {
   text-decoration: none;
 
 }
-a:link {
+.logo a:link {
   text-decoration: none;
   color: white;
 }
-a:visited {
+.logo a:visited {
   text-decoration: none;
   color: white;
 }
-a:hover {
+.logo a:hover {
   text-decoration: none;
   color: white;
 }
-a:active {
+.logo a:active {
   text-decoration: none;
   color: white;
 }
