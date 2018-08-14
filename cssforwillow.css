@@ -41,7 +41,8 @@ p {
   left: 485px;
 }
 .pageTop {
-  background-color: rgba(125, 130, 137, 0.4);
+  background-color: rgba(125, 130, 137, 0.6);
+  width: 200px;
 }
 .container{
   width: 85%;
