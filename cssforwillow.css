@@ -125,6 +125,7 @@ p {
 .menuButton{
   font-size: 400% !important;
   color: white !important;
+  margin: 6px;
 }
 #foodDiscount b {
   font-size: 150%;
