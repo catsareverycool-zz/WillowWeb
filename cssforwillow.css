@@ -28,7 +28,7 @@ p {
   text-align: center !important;
   margin-top: -20px !important;
   position: relative;
-  left: 500px;
+  left: 0px;
 }
 
 .willowlogo{
@@ -38,10 +38,12 @@ p {
   width: auto !important;
   float: left;
   position: relative;
-  left: 485px;
+  left: 4px;
 }
 .pageTop {
   background-color: rgba(125, 130, 137, 0.6);
+  margins: auto;
+  width: 25%;
 }
 .container{
   width: 85%;
