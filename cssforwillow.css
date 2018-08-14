@@ -139,19 +139,19 @@ p {
   text-decoration: none;
 
 }
-.logo a:link {
+.logo:link {
   text-decoration: none;
   color: white;
 }
-.logo a:visited {
+.logo:visited {
   text-decoration: none;
   color: white;
 }
-.logo a:hover {
+.logo:hover {
   text-decoration: none;
   color: white;
 }
-.logo a:active {
+.logo:active {
   text-decoration: none;
   color: white;
 }
