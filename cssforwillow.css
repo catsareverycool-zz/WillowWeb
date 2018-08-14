@@ -40,7 +40,8 @@ p {
   position: relative;
   left: 485px;
 }
-
+pageTop {
+  background-color: rgba(125, 130, 137, 0.4)
 .container{
   width: 85%;
   height: 85%;
