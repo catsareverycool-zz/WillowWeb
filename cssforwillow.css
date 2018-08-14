@@ -42,7 +42,7 @@ p {
 }
 .pageTop {
   background-color: rgba(125, 130, 137, 0.6);
-  margins: auto;
+  margin: auto;
   width: 25%;
 }
 .container{
