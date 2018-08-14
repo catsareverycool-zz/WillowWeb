@@ -115,6 +115,7 @@ p {
 #main {
     transition: margin-left .5s;
     padding: 20px;
+    color: white;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
